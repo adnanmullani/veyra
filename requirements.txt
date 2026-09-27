@@ -1,0 +1,6 @@
+faster-whisper>=1.0.0
+requests>=2.31
+anthropic>=0.40
+numpy>=1.26
+python-dotenv>=1.0
+indic-transliteration>=2.3
